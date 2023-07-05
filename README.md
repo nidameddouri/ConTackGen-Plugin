@@ -70,3 +70,7 @@ Link to ***StackOverFlow*** issue: https://stackoverflow.com/questions/76085924/
 - Pierre BLAIS (pierre.blais@epita.fr)
 - Luis RIBEIRO (luis.rebeiro@epita.fr)
 - Benjamin ALONZEAU (benjamin.alonzo@epita.fr)
+
+## Supervisor
+
+- Nida MEDDOURI (nida.meddouri@epita.fr)
